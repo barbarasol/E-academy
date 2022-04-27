@@ -1,0 +1,11 @@
+#botaoEnviar{
+  display: block;
+  margin: auto;
+}
+
+#btnLogin{
+  position: relative;
+  display: block;
+  text-align: right;
+  color: blue;
+}

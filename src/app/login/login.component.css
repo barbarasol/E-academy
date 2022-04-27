@@ -1,0 +1,11 @@
+#botaoEnviar{
+  display: block;
+  margin: auto;
+}
+
+#cadastro{
+  position: relative;
+  display: block;
+  text-align: right;
+  color: blue;
+}
